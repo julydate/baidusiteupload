@@ -15,7 +15,7 @@ echo "#  made by 七夏浅笑"
 echo "========================================================"
 echo ""
 echo " Usage: bash baidusiteupload.sh {type(url/file)} {domain} {token} {siteMapUrl/siteMapFile}"
-echo " Example bash baidusiteupload.sh url www.julydate.com Ch1a41dcPI9VRu4iYU https://www.julydate.com/sitemap.xml"
+echo " Example bash baidusiteupload.sh url www.example.com Ch1a41dcPI9VRu4iYU https://www.example.com/sitemap.xml"
 echo ""
 
 type=$1
